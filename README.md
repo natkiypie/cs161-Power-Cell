@@ -1,2 +1,2 @@
 # cs162-PowerCell
-Introduction to C++ Term Project 
+Term Project written in C++ using OpenFrameworks
